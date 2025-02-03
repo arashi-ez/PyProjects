@@ -236,6 +236,6 @@ addition or subtruction
 # cat.walk()
 # cat.purr()
 
-from youtube_tweaks import lambda_simple
+# from youtube_tweaks import lambda_simple
 
-print(lambda_simple(20, 25))
+# print(lambda_simple(20, 25))
